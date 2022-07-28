@@ -1,0 +1,291 @@
+{
+    "_id": {
+        "$oid": "62c2be92a7d5671d68a8308e"
+    },
+    "image_url": "https://picsum.photos/200/200",
+    "category": [
+        "Veg",
+        "Non Veg",
+        "Combo Meal",
+        "Starter"
+    ],
+    "auth_users": [],
+    "available_modes": [
+        "Pickup",
+        "Curbside",
+        "Delivery"
+    ],
+    "phone_number": "7566248754",
+    "is_verified": false,
+    "field_changed": "yes",
+    "followers": [],
+    "name": "Big Daddy's",
+    "address": "chota pura",
+    "description": "Fast Food, Desserts, Beverages",
+    "latitude": "18.463853",
+    "longitude": "3.89168",
+    "rating": {
+        "$numberInt": "5"
+    },
+    "number_of_ratings": {
+        "$numberInt": "5"
+    },
+    "profile_percentage": {
+        "$numberInt": "5"
+    },
+    "experience": "5",
+    "about": "no",
+    "calender": [
+        {
+            "_id": {
+                "$oid": "62c2be92a7d5671d68a8308f"
+            },
+            "day": "7",
+            "start_time": "15:48",
+            "end_time": "17:48"
+        }
+    ],
+    "certifications": [],
+    "ownerId": {
+        "$oid": "62c2b927555d3b1ccd80842b"
+    },
+    "menu": [
+        {
+            "image_url": "https://picsum.photos/200/200",
+            "tags": [],
+            "_id": {
+                "$oid": "62c2c60e50e948200539047e"
+            },
+            "item_name": "Veggie Burger",
+            "description": " ",
+            "category_name": "Veg",
+            "item_price": {
+                "$numberInt": "100"
+            },
+            "additions": [
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e948200539047f"
+                    },
+                    "addition_name": "Cheese",
+                    "price": {
+                        "$numberInt": "20"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                },
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390480"
+                    },
+                    "addition_name": "Mayo Dip",
+                    "price": {
+                        "$numberInt": "35"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                }
+            ],
+            "sizes": [
+                {
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390481"
+                    },
+                    "name": "extra2",
+                    "additional_price": "200"
+                }
+            ]
+        },
+        {
+            "image_url": "https://picsum.photos/200/200",
+            "tags": [],
+            "_id": {
+                "$oid": "62c2c60e50e9482005390482"
+            },
+            "item_name": "Classic Paneer Burger",
+            "description": " ",
+            "category_name": "Veg",
+            "item_price": {
+                "$numberInt": "140"
+            },
+            "additions": [
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390483"
+                    },
+                    "addition_name": "Cheese",
+                    "price": {
+                        "$numberInt": "20"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                },
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390484"
+                    },
+                    "addition_name": "Mayo Dip",
+                    "price": {
+                        "$numberInt": "35"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                }
+            ],
+            "sizes": [
+                {
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390485"
+                    },
+                    "name": "extra2",
+                    "additional_price": "200"
+                }
+            ]
+        },
+        {
+            "image_url": "https://picsum.photos/200/200",
+            "tags": [],
+            "_id": {
+                "$oid": "62c2c60e50e9482005390486"
+            },
+            "item_name": "Special Boy Burger",
+            "description": " [Halal] Crunchy boneless chicken piece.",
+            "category_name": "Non Veg",
+            "item_price": {
+                "$numberInt": "158"
+            },
+            "additions": [
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390487"
+                    },
+                    "addition_name": "Cheese",
+                    "price": {
+                        "$numberInt": "20"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                },
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390488"
+                    },
+                    "addition_name": "Mayo Dip",
+                    "price": {
+                        "$numberInt": "35"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                }
+            ],
+            "sizes": [
+                {
+                    "_id": {
+                        "$oid": "62c2c60e50e9482005390489"
+                    },
+                    "name": "extra2",
+                    "additional_price": "200"
+                }
+            ]
+        },
+        {
+            "image_url": "https://picsum.photos/200/200",
+            "tags": [],
+            "_id": {
+                "$oid": "62c2c60e50e948200539048a"
+            },
+            "item_name": "Party Pack Combo",
+            "description": " [ried Chicken [8 Pieces]+2 Special Boy Burger+1 Fries [Regular]+Coke [600 ml [Subject to Availability]",
+            "category_name": "Combo Meal",
+            "item_price": {
+                "$numberInt": "1075"
+            },
+            "additions": [
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e948200539048b"
+                    },
+                    "addition_name": "Cheese",
+                    "price": {
+                        "$numberInt": "20"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                },
+                {
+                    "addition_image": "https://picsum.photos/200/200",
+                    "_id": {
+                        "$oid": "62c2c60e50e948200539048c"
+                    },
+                    "addition_name": "Mayo Dip",
+                    "price": {
+                        "$numberInt": "35"
+                    },
+                    "min_number": {
+                        "$numberInt": "0"
+                    },
+                    "max_number": {
+                        "$numberInt": "20"
+                    }
+                }
+            ],
+            "sizes": [
+                {
+                    "_id": {
+                        "$oid": "62c2c60e50e948200539048d"
+                    },
+                    "name": "extra2",
+                    "additional_price": "200"
+                }
+            ]
+        }
+    ],
+    "createdAt": {
+        "$date": {
+            "$numberLong": "1656929938169"
+        }
+    },
+    "updatedAt": {
+        "$date": {
+            "$numberLong": "1656931854806"
+        }
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}
